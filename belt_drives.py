@@ -44,7 +44,7 @@ from sklearn.pipeline import Pipeline
 # ==========================================
 # CONFIG
 # ==========================================
-RAW_DIR = r"C:\Users\nangu\PycharmProjects\belt squeal\data\augmented"   # must contain normal/ and squeal/ subfolders
+RAW_DIR = r""   # must contain normal/ and squeal/ subfolders
 LABELS = {"normal": 0, "squeal": 1}
 
 TARGET_SR = 16000
